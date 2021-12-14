@@ -1,0 +1,35 @@
+_repo: Survival-at-Altitude-for-Heavy-and-Very-Heavy-Bomber-Crews_66809
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Army Air Forces. Air Force, 2nd. Altitude Indoctrination
+      Unit
+    gutenberg_agent_id: '53926'
+    url: http://www.gutenberg.org/2009/agents/53926
+description: '"Restricted."'
+gutenberg_issued: '2021-11-24'
+identifiers:
+  gutenberg: '66809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'B-24 (Bomber)'
+- !lcsh 'Breathing apparatus -- Handbooks, manuals, etc.'
+- !lcc 'TL'
+- !lcsh 'Aeronautics -- Safety measures'
+- !lcsh 'Airplanes -- Oxygen equipment -- Handbooks, manuals, etc.'
+- !lcsh 'Bombers -- Equipment -- Handbooks, manuals, etc.'
+- !lcsh 'B-17 bomber'
+- !lcsh 'Soldiers -- United States -- Handbooks, manuals, etc.'
+- !lcsh 'B-29 (Bomber)'
+- !lcc 'UG'
+- !lcsh 'United States. Army Air Forces -- Equipment -- Handbooks, manuals, etc.'
+- GITenberg
+summary: A source of general reference concerning oxygen equipment and its use by
+  members of crews flying the B-17, B-24 heavy bomber, and the B-29 combat bomber.
+  The subject matter is presented from a practical point of view, based upon actual
+  experiences encountered on altitude missions.
+title: Survival at Altitude for Heavy and Very Heavy Bomber Crews
+url: http://www.gutenberg.org/ebooks/66809
