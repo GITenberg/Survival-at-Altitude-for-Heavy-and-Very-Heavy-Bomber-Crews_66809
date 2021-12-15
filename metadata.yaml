@@ -1,5 +1,8 @@
 _repo: Survival-at-Altitude-for-Heavy-and-Very-Heavy-Bomber-Crews_66809
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66809-h/images/cover.jpg
 creator:
   author:
     agent_name: United States. Army Air Forces. Air Force, 2nd. Altitude Indoctrination
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '53926'
     url: http://www.gutenberg.org/2009/agents/53926
 description: '"Restricted."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66809#Survival-at-Altitude-for-Heavy-and-Very-Heavy-Bomber-Crews
 gutenberg_issued: '2021-11-24'
 identifiers:
   gutenberg: '66809'
